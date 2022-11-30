@@ -15,6 +15,8 @@ What I learned from the projects:
 - How to use Google Cloud's App Engine
 - How to use Google Cloud's AI Platform
 - How to debug Streamlit deployments using the Git Bash terminal, App Engine logs, desk research and extensive trial and error
+- Running machine learning apps such as this one on Google Cloud can cost 10€-20€/day
+  - Price is affected mostly by the number of models hosted on AI platform
 
 ## How to use: 
 1. Fork the repository by Daniel Bourke
